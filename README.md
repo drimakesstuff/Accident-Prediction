@@ -1,6 +1,7 @@
-# **🚦 Road Accidents Analysis & Prediction (2016–2020)**
+# **🚦 Road Accidents Analysis & Prediction**
 
 Analyze historical road accident data and predict fatalities for 2019–2020 using linear regression, with age-wise visualizations to track trends across different age groups.
+
 ---
 ## **🔹 Features **
 
@@ -9,8 +10,9 @@ Analyze historical road accident data and predict fatalities for 2019–2020 usi
 -Prediction – Estimates fatalities for 2019–2020 based on trends from 2016–2018.
 
 -Age-wise Visualization – Subplots for each age group showing historical & predicted deaths.
+-total Fatalities – Automatically calculates overall predicted deaths across all age groups.
 
--Total Fatalities – Automatically calculates overall predicted deaths across all age groups.
+
 ---
 
 ## **💻 Tech Stack**
@@ -24,6 +26,7 @@ Analyze historical road accident data and predict fatalities for 2019–2020 usi
 -matplotlib
 
 -Jupyter Notebook
+
 ---
 
 ## **🚀 How to Use**
@@ -42,9 +45,12 @@ pip install pandas numpy scikit-learn matplotlib jupyter
 ```
 
 3. **Open the notebook**:
+```
+bash
 
 jupyter notebook Road_Accidents_Analysis.ipynb
 Run cells to explore data, train models, and generate visualizations.
+```
 
 ## **📊 Visualization**
 
@@ -54,9 +60,3 @@ Run cells to explore data, train models, and generate visualizations.
 2.2019–2020 → Predicted fatalities
 
 Trends are displayed with lines and markers for easy comparison.
-
-⚠️ Notes
-
-Ensure Road_accidents.csv is in the same folder as the notebook.
-
-Column names must match exactly (Number of Persons Killed - 2016, etc.) for the notebook to work.
