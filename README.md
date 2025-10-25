@@ -3,7 +3,7 @@
 Analyze historical road accident data and predict fatalities for 2019–2020 using linear regression, with age-wise visualizations to track trends across different age groups.
 
 ---
-## **🔹 Features **
+## **🔹 Features**
 
 -Data Cleaning & Preparation – Handles missing values and removes summary rows.
 
