@@ -60,3 +60,9 @@ Run cells to explore data, train models, and generate visualizations.
 2.2019–2020 → Predicted fatalities
 
 Trends are displayed with lines and markers for easy comparison.
+
+
+---
+## Author
+
+Dri – BSc Data Science student
