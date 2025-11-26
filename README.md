@@ -56,8 +56,8 @@ Run cells to explore data, train models, and generate visualizations.
 
 -**Each age group has its own subplot**:
 
-1.2016–2018 → Actual fatalities
-2.2019–2020 → Predicted fatalities
+-1.2016–2018 → Actual fatalities
+-2.2019–2020 → Predicted fatalities
 
 Trends are displayed with lines and markers for easy comparison.
 
@@ -66,6 +66,7 @@ Trends are displayed with lines and markers for easy comparison.
 ## **Insights **
 
 Across all the plots, the story is basically that younger teens are getting safer on the roads, adults in their late twenties and early thirties remain the highest-risk group with a steady climb, middle-aged people split between a mild decline (35–45) and a gradual rise (45–60), and older adults show a bouncy but generally increasing trend, while the “age not known” category is clearly messy reporting rather than a real pattern; overall it suggests shifting risk toward active, commuting-age adults and an aging population becoming more vulnerable.
+
 ---
 ## Author
 
