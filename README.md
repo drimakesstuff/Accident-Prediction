@@ -56,8 +56,8 @@ Run cells to explore data, train models, and generate visualizations.
 
 -**Each age group has its own subplot**:
 
--1.2016–2018 → Actual fatalities
--2.2019–2020 → Predicted fatalities
+1.2016–2018 → Actual fatalities
+2.2019–2020 → Predicted fatalities
 
 Trends are displayed with lines and markers for easy comparison.
 
